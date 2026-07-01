@@ -1,11 +1,11 @@
 1. Bảng các giải đấu áp dụng cho ngày trong tuần
 | Tên giải       | Thời gian (giờ VN) | Đánh giá |
 | -------------- | ------------------ | -------- |
+| Pro Division D | 08:00              | Bịp nhẹ  |
 | Pro Division B | 14:00              | Bịp nhẹ  |
 | Pro Division F | 14:00              | Liêm     |
 | Pro Division A | 20:00              | Liêm     |
 | Pro Division C | 03:00 (hôm sau)    | Bịp nhẹ  |
-| Pro Division D | 08:00              | Bịp nhẹ  |
 
 
 2. Bảng các giải đấu áp dụng cho Thứ 7 và Chủ Nhật
