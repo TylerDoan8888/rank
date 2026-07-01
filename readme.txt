@@ -1,19 +1,23 @@
-1. Bảng các giải đấu áp dụng cho tất cả các ngày
-Tên giải đấu	Thời gian bắt đầu (Giờ VN)
-Pro Division D	08:00 AM
-Pro Division B	02:00 PM
-Pro Division A	08:00 PM (Liem)
-Pro Division C	03:00 AM (Ngày hôm sau)
+1. Bảng các giải đấu áp dụng cho ngày trong tuần
+| Tên giải       | Thời gian (giờ VN) | Đánh giá |
+| -------------- | ------------------ | -------- |
+| Pro Division B | 14:00              | Bịp nhẹ  |
+| Pro Division F | 14:00              | Liêm     |
+| Pro Division A | 20:00              | Liêm     |
+| Pro Division C | 03:00 (hôm sau)    | Bịp nhẹ  |
+| Pro Division D | 08:00              | Bịp nhẹ  |
+
 
 2. Bảng các giải đấu áp dụng cho Thứ 7 và Chủ Nhật
-Tên giải đấu	Thời gian bắt đầu (Giờ VN)
-Pro Division F	02:00 PM (Liem)
-Pro Division M	02:00 PM
-Pro Division X	02:00 PM
-Pro Division N	07:00 PM
-Pro Division Z	08:00 PM
-Pro Division O	02:00 AM (Ngày hôm sau)
-Pro Division U	02:00 AM (Ngày hôm sau)
+| Tên giải       | Thời gian (giờ VN) | Đánh giá |
+| -------------- | ------------------ | -------- |
+| Pro Division X | 14:00              | Liêm     |
+| Pro Division N | 19:00              | Liêm     |
+| Pro Division Z | 20:00              | Liêm     |
+| Pro Division O | 02:00 (hôm sau)    | Liêm     |
+| Pro Division U | 02:00 (hôm sau)    | Liêm     |
+| Pro Division M | 14:00              | Bịp nhẹ  |
+
 
 
 
